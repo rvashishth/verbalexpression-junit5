@@ -13,3 +13,9 @@ Contains example of verbalexpression library with junit5 test cases
 ###### Regular expressions
   - Mobile number validation 3 digit ISD Code + 10 Digit Msisdn i.e. 2348902342349
   - 
+
+##### Junit5 annotation covered
+  - @BeforeAll
+  - @Test
+  - @DisplayNmae
+  - 
