@@ -1,5 +1,5 @@
 # verbalexpression-junit5
-Contains example of verbalexpression library with junit5 test cases
+Contains example of verbalexpression regular expression library with junit5 test cases
 
 ###### Pre-requisite/environment
   - Java 1.9
