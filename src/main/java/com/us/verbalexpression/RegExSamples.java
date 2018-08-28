@@ -1,4 +1,4 @@
-package com.wolftechnica.verbalexpression;
+package com.us.verbalexpression;
 
 import ru.lanwen.verbalregex.VerbalExpression;
 

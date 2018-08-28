@@ -1,12 +1,11 @@
-package com.wolftechnica.verbalexpression.test;
+package com.us.verbalexpression.test;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.TestInstance;
 
-import com.wolftechnica.verbalexpression.RegExSamples;
+import com.us.verbalexpression.RegExSamples;
 
 @DisplayName("VariableExpression Test Cases")
 public class TestRegExSamples {
